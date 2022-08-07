@@ -1,0 +1,15 @@
+{
+  "name": "zenn-connects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kshiva1126/zenn-connects.git",
+  "author": "kshiva1126 <42695879+kshiva1126@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.116"
+  }
+}
