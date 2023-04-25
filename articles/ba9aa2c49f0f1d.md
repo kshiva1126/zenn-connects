@@ -27,3 +27,6 @@ $disk = Storage::build([
 ここでは、PHP8.1で追加された[文字列キー配列のアンパック](https://www.php.net/releases/8.1/ja.php#array_unpacking_support_for_string_keyed_arrays)を用いて既存のS3情報を展開した上で、バケット名のみを上書きしています。
 もちろん、すべての情報をべた書きして作成することも可能です。
 なお、[公式ドキュメント](https://laravel.com/docs/8.x/filesystem#on-demand-disks)によると、Laravel 8 から `Storage::build` が追加されたようです。
+
+## 終わりに
+ドキュメントに当たるのはやっぱり大事
