@@ -26,16 +26,16 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["zenn-cli", "npm:0.1.143"]\
+          ["zenn-cli", "npm:0.1.149"]\
         ],\
         "linkType": "SOFT"\
       }]\
     ]],\
     ["zenn-cli", [\
-      ["npm:0.1.143", {\
-        "packageLocation": "../../.yarn/berry/cache/zenn-cli-npm-0.1.143-08b0777d3a-9.zip/node_modules/zenn-cli/",\
+      ["npm:0.1.149", {\
+        "packageLocation": "../../.yarn/berry/cache/zenn-cli-npm-0.1.149-195d2649bc-9.zip/node_modules/zenn-cli/",\
         "packageDependencies": [\
-          ["zenn-cli", "npm:0.1.143"]\
+          ["zenn-cli", "npm:0.1.149"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -45,7 +45,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["zenn-connects", "workspace:."],\
-          ["zenn-cli", "npm:0.1.143"]\
+          ["zenn-cli", "npm:0.1.149"]\
         ],\
         "linkType": "SOFT"\
       }]\
